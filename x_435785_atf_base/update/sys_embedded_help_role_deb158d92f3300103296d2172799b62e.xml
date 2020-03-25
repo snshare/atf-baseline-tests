@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_435785_atf_base.admin" name="x_435785_atf_base.admin">9ab158d92f3300103296d2172799b62b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>djkersch</sys_created_by>
+        <sys_created_on>2020-03-25 19:23:45</sys_created_on>
+        <sys_id>deb158d92f3300103296d2172799b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9ab158d92f3300103296d2172799b62b</sys_name>
+        <sys_package display_value="ATF Baseline Tests" source="x_435785_atf_base">68b1d85d2f3300103296d2172799b6da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF Baseline Tests">68b1d85d2f3300103296d2172799b6da</sys_scope>
+        <sys_update_name>sys_embedded_help_role_deb158d92f3300103296d2172799b62e</sys_update_name>
+        <sys_updated_by>djkersch</sys_updated_by>
+        <sys_updated_on>2020-03-25 19:23:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
